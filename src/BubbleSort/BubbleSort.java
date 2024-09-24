@@ -51,8 +51,8 @@ public class BubbleSort {
         System.out.println("");
     }
     public static void main(String[] args) {
-        //Integer[]  meuVetor = gerarVetor(10,100);
-        Integer[]  meuVetor = {1,2,3,4,5,6,7,8,9,10};
+        Integer[]  meuVetor = gerarVetor(10,100);
+        //Integer[]  meuVetor = {1,2,3,4,5,6,7,8,9,10};
         //Integer[]  meuVetor = {2,1,5,9,10,11,12,15,14,13};
         
         System.out.println("Vetor Gerado:");
